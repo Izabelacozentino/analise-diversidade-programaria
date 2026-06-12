@@ -1,4 +1,3 @@
-# analise-diversidade-programaria
 # 📊 Análise de Diversidade no Mercado de Tecnologia
 
 Projeto desenvolvido durante o curso "Meus Primeiros Passos em Análise de Dados" da Programaria.
@@ -30,3 +29,17 @@ Analisar dados de diversidade no mercado de tecnologia brasileiro considerando g
 - Análise exploratória
 - Criação de visualizações
 - Construção de dashboards
+
+## Dashboard
+
+### Análise de Gênero
+
+![Análise de Gênero](Análise_gênero.png)
+
+### Análise de Etnia
+
+![Análise de Etnia](Análise_etnia.png)
+
+## Relatório Completo
+
+[📄 Clique aqui para visualizar o relatório](Relatório_Programaria_Izabela.pdf)
